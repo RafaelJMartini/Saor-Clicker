@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Variável global de contagem
 besos = 0.0
-besos_por_segundo = 10000000000.0
+besos_por_segundo = 0.0
 
 #numero de construções
 qtd_saor = 0
